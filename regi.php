@@ -71,6 +71,10 @@
 					<div class="input-group">
 							<button type="submit" class="btn" name="reg_user">Register</button>
 					</div>
+					<div class="input-group">
+						<button type="submit" class="btn"name="reg_users">Registration</button>
+					</div>
+	
 					<p>
 						Already a member? <a href="F:/lhms/log.html">Sign in</a>
 					</p>
