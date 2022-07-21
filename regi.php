@@ -71,6 +71,9 @@
 					<div class="input-group">
 							<button type="submit" class="btn" name="reg_user">Register</button>
 					</div>
+					
+					
+					
 					<div class="input-group">
 						<button type="submit" class="btn"name="reg_users">Registration</button>
 					</div>
